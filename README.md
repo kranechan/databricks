@@ -20,8 +20,6 @@ Alice->John: Yes... John, how are you?
 
 Test Image:
 
-<img src="assets/images/test.png" width="400">
-
 And this will produce a flow chart:
 
 ```mermaid
